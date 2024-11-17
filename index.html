@@ -140,6 +140,56 @@
             }
         </style>
     </head>
+        <script>
+            // Configuração básica de partículas de neve
+            function createSnowflake() {
+                const snowflake = document.createElement("div");
+                snowflake.classList.add("snowflake");
+                snowflake.textContent = "❄";
+                snowflake.style.left = Math.random() * 100 + "vw";
+                snowflake.style.animationDuration = Math.random() * 5 + 12 + "s"; // Duração maior (12-17s)
+                snowflake.style.fontSize = Math.random() * 10 + 10 + "px";
+                document.body.appendChild(snowflake);
+
+                // Remover o floco ao término da animação
+                snowflake.addEventListener("animationend", () => {
+                    snowflake.remove();
+                });
+            }
+
+            setInterval(createSnowflake, 1000); // Intervalo maior = menos flocos
+        </script>
+
+        <style>
+            /* Estilo para as partículas de neve */
+            .snowflake {
+                position: fixed;
+                top: -5px;
+                color: white;
+                z-index: 9999;
+                animation: fall linear infinite;
+            }
+
+            @keyframes fall {
+                0% {
+                    transform: translateX(0) translateY(0);
+                    opacity: 1;
+                }
+                25% {
+                    transform: translateX(-20px) translateY(25vh);
+                }
+                50% {
+                    transform: translateX(20px) translateY(50vh);
+                }
+                75% {
+                    transform: translateX(-20px) translateY(75vh);
+                }
+                100% {
+                    transform: translateX(0) translateY(100vh);
+                    opacity: 0;
+                }
+            }
+        </style>
 
 <body>
     <div class="container">
