@@ -142,6 +142,8 @@
     </head>
         <script>
             // Configuração básica de partículas de neve
+            let maxSnowflakes = 100; // Número máximo de flocos visíveis
+let snowflakesCount = 0;
             function createSnowflake() {
                 const snowflake = document.createElement("div");
                 snowflake.classList.add("snowflake");
