@@ -39,7 +39,7 @@ function projetos(section) {
             </div>
           </div>
           <p>Sênior Moderador</p>
-          <p>35k+</p>
+          <p>39k+</p>
         </div>
         <div class="card">
           <h3>Anime Heroes</h3>
