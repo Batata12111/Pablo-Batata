@@ -38,7 +38,7 @@ function projetos(section) {
               </a>
             </div>
           </div>
-          <p>Sênior Moderador</p>
+          <p>Admin/p>
           <p>39k+</p>
         </div>
         <div class="card">
