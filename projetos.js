@@ -7,7 +7,7 @@ function projetos(section) {
         <div class="card">
           <h3>Anime Strike</h3>
           <div class="img-wrapper">
-            <img src="https://i.imgur.com/0FihMjS.png" />
+            <img src="https://imgur.com/a/hhI1ELt.png" />
             <div class="buttons">
               <a href="https://github.com/Batata12111" target="_blank" title="Repositório no Github">
                 <svg
