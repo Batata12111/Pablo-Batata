@@ -81,12 +81,12 @@ function projetos(section) {
           <p>
             Moderador
           </p>
-          <p>13k+</p>
+          <p>15k+ (2.7M+ Visits)</p>
         </div>
         <div class="card">
           <h3>Anime Sword X</h3>
           <div class="img-wrapper">
-            <img src="https://i.imgur.com/s0UYk33.jpeg" alt="Imagem do projeto." />
+            <img src="https://tr.rbxcdn.com/180DAY-9a9598fcea930e37757f58715b2cdf69/512/512/Image/Webp/noFilter" alt="Imagem do projeto." />
             <div class="buttons">
               <a href="https://github.com/Batata12111" target="_blank" title="Repositório no Github">
                 <svg
@@ -118,7 +118,7 @@ function projetos(section) {
             </div>
           </div>
           <p>Moderador</p>
-          <p>6k+</p>
+          <p>6k+ (1.1M+ Visits)</p>
         </div>
         <div class="card">
           <h3>Anime Blast</h3>
