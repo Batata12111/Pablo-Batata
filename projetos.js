@@ -38,8 +38,8 @@ function projetos(section) {
               </a>
             </div>
           </div>
-          <p>Admin</p>
-          <p>40k+</p>
+          <p>Administrador</p>
+          <p>42k+ (22.3M+ Visits)</p>
         </div>
         <div class="card">
           <h3>Anime Heroes</h3>
