@@ -45,7 +45,7 @@ function projetos(section) {
           <h3>Anime Heroes</h3>
           <div class="img-wrapper">
             <img
-              src="https://i.imgur.com/0uzmB2Q.jpeg"
+              src="https://tr.rbxcdn.com/180DAY-b45ca3bf0e8d6d493ac4a4d4d3601efd/512/512/Image/Webp/noFilter"
               alt="Imagem tema do projeto de desafio de código."
             />
             <div class="buttons">
