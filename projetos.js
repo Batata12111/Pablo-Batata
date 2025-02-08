@@ -123,7 +123,7 @@ function projetos(section) {
         <div class="card">
           <h3>Anime Blast</h3>
           <div class="img-wrapper">
-            <img src="https://i.imgur.com/OFsWVn9.jpeg" alt="Imagem do projeto." />
+            <img src="https://tr.rbxcdn.com/180DAY-76d5e9002991a8faa88702e875d1f126/512/512/Image/Webp/noFilter" alt="Imagem do projeto." />
             <div class="buttons">
               <a href="https://github.com/Batata12111" target="_blank" title="Repositório no Github">
                 <svg
@@ -155,7 +155,7 @@ function projetos(section) {
             </div>
           </div>
           <p>Moderador</p>
-          <p>6k+</p>
+          <p>6k+ (556.3K+ Visits)</p>
         </div>
         <div class="card">
           <h3>Projetos Web</h3>
